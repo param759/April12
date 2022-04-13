@@ -27,4 +27,9 @@ public class LandingTest extends browser {
 		
 		
 	}
+ @Test
+ public void gohome()
+ {
+ System.out.println("work to be done");
+ }
 }
